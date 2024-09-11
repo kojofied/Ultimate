@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\bin\Debug\Ultimate Text Editor.exe.config
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\bin\Debug\Ultimate Text Editor.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\bin\Debug\Ultimate Text Editor.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\bin\Debug\Ultimate Text Editor.xml
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate_Text_Editor.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate_Text_Editor.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate Text Editor.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate Text Editor.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate Text Editor.xml
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate Text Editor.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate_Text_Editor.About.resources
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Ultimate Text Editor\Ultimate Text Editor\obj\Debug\Ultimate_Text_Editor.Info.resources
